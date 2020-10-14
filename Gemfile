@@ -2,7 +2,7 @@ source 'https://rubygems.org'
 
 
 # Bundle edge Rails instead: gem 'rails', github: 'rails/rails'
-gem 'rails', '4.2.1'
+gem 'rails', '6.0.3.4'
 
 gem 'pg'
 # Use SCSS for stylesheets
@@ -28,7 +28,7 @@ gem 'sdoc', '~> 0.4.0', group: :doc
 
 # Use Unicorn as the app server
 # gem 'unicorn'
-
+ 
 # Use Capistrano for deployment
 # gem 'capistrano-rails', group: :development
 
